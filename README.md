@@ -26,3 +26,5 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | 🔴 LED rojo | Indicador de acceso denegado |
 | Buzzer activo | Señal sonora de confirmación/alerta |
 | Resistencias 220Ω | Limitador de corriente  |
+| Protoboard | Instalacion de leds y resistencias |
+| Cables dupont | Conexion del circuito arduino y los componentes |
