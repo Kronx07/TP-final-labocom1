@@ -16,8 +16,13 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 
 **> ⚙️ Lista de componentes:**
 
-1 . Arduino UNO R3 / Microcontrolador. 
-2 . Teclado matricial 4x4 / Ingreso de patentes.
-3 . LCD 16 x 2 / mensajes y datos mostrados en pantalla.
-4 . Servomotor / Barrera fisica.
-5 . 
+| Componente | Funcion |
+| :---       |  ---: |
+| Arduino UNO R3 | Microcontrolador |
+| Teclado matricial 4x4 | Ingreso de patentes  |
+| LCD 16 x 2 | Mensajes y datos mostrados en pantalla |
+| Servomotor | Barrera fisica |
+| 🟢 LED verde | Inidicador de acceso permitido |
+| 🔴 LED rojo | Indicador de acceso denegado |
+| Buzzer activo | Señal sonora de confirmación/alerta |
+| Resistencias 220Ω | Limitador de corriente  |
