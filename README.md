@@ -28,3 +28,5 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | Resistencias 220Ω | Limitador de corriente  |
 | Protoboard | Instalacion de leds y resistencias |
 | Cables dupont | Conexion del circuito arduino y los componentes |
+| Sensor infrarojo MH | Deteccion de vehiculos |
+
