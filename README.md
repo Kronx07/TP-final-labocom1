@@ -30,3 +30,14 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | Cables dupont | Conexion del circuito arduino y los componentes |
 | Sensor infrarojo MH | Deteccion de vehiculos |
 
+**Librerias:**
+
+
+| Librerias | Funcion |
+| --- | --- |
+| #include <Wire.h> | Comunicación I2C  |
+| #include <Adafruit_GFX.h> | Motor gráfico |
+| #include <Adafruit_SSD1306.h> | Driver para pantalla OLED SSD1306  | 
+| #include <Keypad.h> | Teclado matricial 4x4 | 
+| #include <Servo.h> | Servomotor (Barrera) | 
+| #include <EEPROM.h> | Lectura y escritura en la memoria no volátil del ATmega | 
