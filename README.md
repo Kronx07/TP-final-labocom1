@@ -41,3 +41,16 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | #include <Keypad.h> | Teclado matricial 4x4 | 
 | #include <Servo.h> | Servomotor (Barrera) | 
 | #include <EEPROM.h> | Lectura y escritura en la memoria no volátil del ATmega | 
+
+**Integrantes:**
+
+
+| Alumnos 🧐 | 
+| --- | 
+| 1 . Alex Sosa D´Estefano |  
+| 2 . Rodrigo Caceres |  
+| 3 . Gaston Casanova |
+| 4 . Julieta Paez |
+| 5 . Martina Chalekian |
+
+
