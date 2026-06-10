@@ -20,7 +20,7 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | :---       |  ---: |
 | Arduino UNO R3 | Microcontrolador |
 | Teclado matricial 4x4 | Ingreso de patentes  |
-| LCD 16 x 2 | Mensajes y datos mostrados en pantalla |
+| Pantalla OLED SSD1306 | Mensajes y datos mostrados en pantalla |
 | Servomotor | Barrera fisica |
 | 🟢 LED verde | Inidicador de acceso permitido |
 | 🔴 LED rojo | Indicador de acceso denegado |
