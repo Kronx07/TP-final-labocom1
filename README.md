@@ -30,7 +30,7 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | Cables dupont | Conexion del circuito arduino y los componentes |
 | Sensor infrarojo MH | Deteccion de vehiculos |
 
-**Librerias:**
+**> Librerias:**
 
 
 | Librerias | Funcion |
@@ -42,7 +42,7 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | #include <Servo.h> | Servomotor (Barrera) | 
 | #include <EEPROM.h> | Lectura y escritura en la memoria no volátil del ATmega | 
 
-**Integrantes:**
+**> Integrantes:**
 
 
 | Alumnos 🧐 | 
