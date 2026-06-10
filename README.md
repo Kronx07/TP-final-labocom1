@@ -32,7 +32,6 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 
 **> Librerias:**
 
-
 | Librerias | Funcion |
 | --- | --- |
 | #include <Wire.h> | Comunicación I2C  |
@@ -43,7 +42,6 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | #include <EEPROM.h> | Lectura y escritura en la memoria no volátil del ATmega | 
 
 **> Integrantes:**
-
 
 | Alumnos 🧐 | 
 | --- | 
