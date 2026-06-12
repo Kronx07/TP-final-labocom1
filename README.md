@@ -10,13 +10,13 @@ Este sistema diseñado con arduino, simula el acceso a un estacionamiento privad
 
 El sistema cuenta además con un **modo administrador** que permite agregar nuevas patentes a la lista habilitada sin necesidad de reprogramar el Arduino.
 
-**> Diagrama de conexiones:**
-
-<img width="1536" height="1024" alt="ChatGPT Image 10 jun 2026, 08_03_59 p m" src="https://github.com/user-attachments/assets/444ad9b7-5e84-4899-8967-df907ef4e411" />
-
 **> Diagrama Logico:**
 
+<img width="863" height="1823" alt="ChatGPT Image Jun 12, 2026, 04_51_16 PM" src="https://github.com/user-attachments/assets/5f5c5b40-f049-4200-b916-003679532785" />
 
+**> Diagrama de conexiones:**
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 12, 2026, 05_06_32 PM" src="https://github.com/user-attachments/assets/1bf1abe7-4079-42df-82ca-3152efe97867" />
 
 **> ⚙️ Lista de componentes:**
 
