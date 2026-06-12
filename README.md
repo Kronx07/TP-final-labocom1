@@ -55,4 +55,4 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 | 4 . Julieta Paez |
 | 5 . Martina Chalekian |
 
-
+*TP Final — Laboratorio de Computación 1 | UNSAM x Sin Delay*
