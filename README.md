@@ -12,11 +12,25 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 
 **> Diagrama Logico:**
 
+
 <img width="863" height="1823" alt="ChatGPT Image Jun 12, 2026, 04_51_16 PM" src="https://github.com/user-attachments/assets/5f5c5b40-f049-4200-b916-003679532785" />
+
 
 **> Diagrama de conexiones:**
 
+
 <img width="1536" height="1024" alt="ChatGPT Image Jun 12, 2026, 05_06_32 PM" src="https://github.com/user-attachments/assets/1bf1abe7-4079-42df-82ca-3152efe97867" />
+
+
+**> Diagrama de circuito:**
+
+
+<img width="1082" height="785" alt="Screenshot 2026-06-13 173726" src="https://github.com/user-attachments/assets/6e72887a-0587-4ff1-a24e-49f49b33cd80" />
+
+
+*> Aclaraciones importantes sobre el diagrama de circuito:**
+
+*_ Ya que Tinkercad Circuits no cuenta con algunos de los componentes utilizados en el sistema fisico, fue necesario cambiar ciertos detalles para poder representar el funcionamiento general del proyecto dentro de la simulacion. En primer lugar, el sistema fisico utiliza un sensor infrarrojo MH para la deteccion de vehiculos. Debido a esto, como este componente no se encuentra disponible en tinkercad, se utilizo un sensor ultrasonico como reemplazo en el diseño del circuito. Por este motivo, sobre la linea donde se declara el sensor ("#define SENSOR_MH A0") se agrego el comentario: "// En la simulacion es el Ultrasonic Distance Sensor !!!", ademas, el sistema fisico esta diseñado para trabajar con una pantalla OLED SSD1306. Como este modelo tampoco esta disponible en el catalogo de Tinkercad Circuits, se decidio por utilizar una pantalla LCD 16x2 con interfaz I2C para representar su funcionamiento en la simulacion. Para detallar esta diferencia, se añadio el siguiente comentario antes de la inicialización de la pantalla: "// En la simulacion seria el LCD 16x2 (I2C) !!!".*
 
 **> ⚙️ Lista de componentes:**
 
