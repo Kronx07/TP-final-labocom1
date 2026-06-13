@@ -32,6 +32,8 @@ El sistema cuenta además con un **modo administrador** que permite agregar nuev
 
 *_ Ya que Tinkercad Circuits no cuenta con algunos de los componentes utilizados en el sistema fisico, fue necesario cambiar ciertos detalles para poder representar el funcionamiento general del proyecto dentro de la simulacion. En primer lugar, el sistema fisico utiliza un sensor infrarrojo MH para la deteccion de vehiculos. Debido a esto, como este componente no se encuentra disponible en tinkercad, se utilizo un sensor ultrasonico como reemplazo en el diseño del circuito. Por este motivo, sobre la linea donde se declara el sensor ("#define SENSOR_MH A0") se agrego el comentario: "// En la simulacion es el Ultrasonic Distance Sensor !!!", ademas, el sistema fisico esta diseñado para trabajar con una pantalla OLED SSD1306. Como este modelo tampoco esta disponible en el catalogo de Tinkercad Circuits, se decidio por utilizar una pantalla LCD 16x2 con interfaz I2C para representar su funcionamiento en la simulacion. Para detallar esta diferencia, se añadio el siguiente comentario antes de la inicialización de la pantalla: "// En la simulacion seria el LCD 16x2 (I2C) !!!".*
 
+**< Link al Tinkercad Circuits: [Ver el Circuito del Proyecto Final en Tinkercad](https://www.tinkercad.com/things/e9RaLF5bZTH-circuito-proyecto-final-sindelay/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard) >**
+
 **> ⚙️ Lista de componentes:**
 
 | Componente | Funcion |
